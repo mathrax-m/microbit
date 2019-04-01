@@ -16,11 +16,11 @@ void oscOpen() {
 
 
 //SonicPiへOSC送信する
-void sendOscSonicPi(int nt) {
+void sendOscSonicPi(int note) {
   //OSCメッセージを作る
   OscMessage myMessage = new OscMessage("/note");
   //このメッセージにnoteを追加する
-  myMessage.add(nt); 
+  myMessage.add(note); 
   //OSCメッセージを、myRemoteLocation宛てに送る
   oscP5.send(myMessage, myRemoteLocation);
 }
@@ -31,8 +31,8 @@ void sendOscSonicPi(int nt) {
 ##ここから
  live_loop :synth do
  use_real_time
- x, = sync "/osc/note"
- synth :beep, note: x,  release: 0.5
+ a = sync "/osc/ch0/note"
+ synth :beep, note: a,  release: 0.5
  end
 ##ここまで 
  */

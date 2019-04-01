@@ -31,8 +31,8 @@ void sendOscSonicPi(int nt) {
 ##ここから
  live_loop :synth do
  use_real_time
- x, = sync "/osc/note"
- synth :beep, note: x,  release: 0.5
+ a = sync "/osc/ch0/note"
+ synth :beep, note: a,  release: 0.5
  end
 ##ここまで 
  */

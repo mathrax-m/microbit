@@ -8,7 +8,7 @@ NetAddress myRemoteLocation;
 void oscOpen() {
   //ProcessingのOSC受信ポート（今回はOSC受信しないがこのプログラムでは必要になる）
   oscP5 = new OscP5(this, 50000);
-  
+
   //ProcessingからOSC送信,SonicPiがOSC受信するポート
   //SonicPiの受信ポートは、4559と決まっている
   myRemoteLocation = new NetAddress("localhost", 4559);
@@ -16,23 +16,11 @@ void oscOpen() {
 
 
 //SonicPiへOSC送信する
-void sendOscSonicPi(int nt) {
+void sendOscSonicPi(int note) {
   //OSCメッセージを作る
-  OscMessage myMessage = new OscMessage("/note");
+  OscMessage myMessage = new OscMessage("/ch0/note");
   //このメッセージにnoteを追加する
-  myMessage.add(nt); 
+  myMessage.add(note);
   //OSCメッセージを、myRemoteLocation宛てに送る
   oscP5.send(myMessage, myRemoteLocation);
 }
-
-
-//以下のコードをSonicPiにコピーする
-/*
-##ここから
- live_loop :synth do
- use_real_time
- x, = sync "/osc/note"
- synth :beep, note: x,  release: 0.5
- end
-##ここまで 
- */

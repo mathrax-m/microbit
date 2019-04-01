@@ -15,7 +15,7 @@ void setup() {
 }
 
 void draw() {
-  //if (debug) {
+  //if (debug) {　
     drawMain();
     //return;
   //}
