@@ -2,10 +2,6 @@ boolean serialPortSelect;
 int selectSerialPortNum;
 boolean debug=false;
 
-float x;
-float y;
-float z;
-
 
 void setup() {
   size(200, 160);

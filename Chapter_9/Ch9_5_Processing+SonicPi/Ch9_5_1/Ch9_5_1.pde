@@ -5,8 +5,6 @@ int[]   key_order = {0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0};
 float[] bright   = new float[13];
 
 
-boolean debug=true;
-
 void setup() {
   //画面サイズを800x400にする
   size(800, 400);
@@ -15,10 +13,7 @@ void setup() {
 }
 
 void draw() {
-  //if (debug) {　
-    drawMain();
-    //return;
-  //}
+  drawMain();
 }
 
 
