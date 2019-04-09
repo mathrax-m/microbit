@@ -32,7 +32,7 @@ void drawMain() {
     rect(160*i, 0, 160, 600*bright[i]);
   }
 
-  OscMessage myMessage = new OscMessage("/note");
+  OscMessage myMessage = new OscMessage("/fromP5");
   for (int i=0; i<microbitData.length-1; i++) {
     myMessage.add(microbitData[i]);
   }

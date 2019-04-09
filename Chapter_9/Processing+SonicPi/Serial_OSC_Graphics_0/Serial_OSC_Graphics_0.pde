@@ -41,7 +41,7 @@ void drawMain() {
   }
   
   //OSCメッセージを作成する
-  OscMessage myMessage = new OscMessage("/note");
+  OscMessage myMessage = new OscMessage("/fromP5");
   //シリアル受信データの個数分だけ繰り返す
   for (int i=0; i<microbitData.length-1; i++) {
     //OSCメッセージにシリアル受信データを追加する

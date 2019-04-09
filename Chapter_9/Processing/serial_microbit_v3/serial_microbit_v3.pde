@@ -1,10 +1,10 @@
 //micro:bit加速度XYZ+ボタンAB
 //平均して滑らかにする
 
-float ave_x;
-float ave_y;
-float ave_z;
-
+float ave_x;  //浮動小数型の変数「ave_x」を用意する
+float ave_y;  //浮動小数型の変数「ave_y」を用意する
+float ave_z;  //浮動小数型の変数「ave_z」を用意する
+ 
 PImage mb;
 
 void setup() {
@@ -23,9 +23,9 @@ void setup() {
 void drawMain() {
   
   //microbitDataを、0.0〜1.0に整える  
-  float x = map(microbitData[0], -1024, 1023, 0, 1);
-  float y = map(microbitData[1], -1024, 1023, 0, 1);
-  float z = map(microbitData[2], -1024, 1023, 0, 1);
+  float x = map(microbitData[0], -1024, 1023, 0, 1);  //加速度Xの情報を0.0〜1.0整える
+  float y = map(microbitData[1], -1024, 1023, 0, 1);  //加速度Yの情報を0.0〜1.0整える
+  float z = map(microbitData[2], -1024, 1023, 0, 1);  //加速度Zの情報を0.0〜1.0整える
 
   ave_x = ave_x*(9.0/10.0)+x*(1.0/10.0);
   ave_y = ave_y*(9.0/10.0)+y*(1.0/10.0);
