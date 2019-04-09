@@ -1,4 +1,4 @@
-# microbit
+# micro:bit
 ### 01 : micro:bitとは？
 ### 02 : プログラミングと工作のための準備
 ### 03 : MakeCodeエディタの使いかた
