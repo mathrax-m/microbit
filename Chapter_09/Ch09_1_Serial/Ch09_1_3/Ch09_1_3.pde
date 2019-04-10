@@ -1,12 +1,12 @@
 //Ch09_1_3
 //  micro:bit+Processing
-//  -- micro:bit加速度XYZ+ボタンAB --
+//  -- micro:bit加速度XYZ --
 //  -- 平均して滑らかにする --
 
 float ave_x;  //浮動小数型の変数「ave_x」を用意する
 float ave_y;  //浮動小数型の変数「ave_y」を用意する
 float ave_z;  //浮動小数型の変数「ave_z」を用意する
- 
+
 PImage mb;
 
 void setup() {
@@ -23,6 +23,7 @@ void setup() {
 
 //micro:bitのデータを使ったプログラム
 void drawMain() {
+  background(255,255,255);
   
   //microbitDataを、0.0〜1.0に整える  
   float x = map(microbitData[0], -1024, 1023, 0, 1);  //加速度Xの情報を0.0〜1.0整える
@@ -40,8 +41,8 @@ void drawMain() {
 
   //塗りの色をランダムに変える
   tint(random(255), random(255), random(255), 100);
-  imageMode(CENTER);          //画像の原点を中心にする
-  image(mb, 0, 0);              //画像を描画する
+  imageMode(CENTER);              //画像の原点を中心にする
+  image(mb, 0, 0);                //画像を描画する
 
-  popMatrix();                //座標の変換おわり
+  popMatrix();                    //座標の変換おわり
 }
