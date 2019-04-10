@@ -1,4 +1,5 @@
 # micro:bit
+---
 ## 01 : micro:bitとは？
 ### 01-1 : micro:bitとは？
 ### 01-2 : micro:bitの外観と機能
