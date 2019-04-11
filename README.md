@@ -3,6 +3,12 @@
 ## 01 : micro:bitとは？
 1. micro:bitとは？
 2. micro:bitの外観と機能
+- microbit-Ch04_1_1_LED_アイコンを表示.hex
+- microbit-Ch04_1_2_LED_ドットXY.hex
+- microbit-Ch04_1_3_LED_棒グラフ.hex
+- microbit-Ch04_1_4_LED_明るさ変える.hex
+- microbit-Ch04_1_5_ボタン_ABでアイコン変わる.hex
+
 3. プログラミングと工作を始める前の注意
 
 ## 02 : プログラミングと工作のための準備
