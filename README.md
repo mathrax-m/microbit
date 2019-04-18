@@ -17,10 +17,10 @@
 
 ## 04 : ブロックで知る基本機能
 1. LED
-  - microbit-Ch04_1_1_LED_アイコンを表示.hex
-  - microbit-Ch04_1_2_LED_ドットXY.hex
-  - microbit-Ch04_1_3_LED_棒グラフ.hex
-  - microbit-Ch04_1_4_LED_明るさ変える.hex
+   - microbit-Ch04_1_1_LED_アイコンを表示.hex
+   - microbit-Ch04_1_2_LED_ドットXY.hex
+   - microbit-Ch04_1_3_LED_棒グラフ.hex
+   - microbit-Ch04_1_4_LED_明るさ変える.hex
 2. ボタン
 - microbit-Ch04_2_1_ボタン_ABでアイコン変わる.hex
 - microbit-Ch04_2_2_ボタン_押された回数.hex
