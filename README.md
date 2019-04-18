@@ -2,7 +2,7 @@
 
 ## Chapter01 : micro:bitとは？
 ### 01-1. micro:bitとは？
-    microbit-Ch01_1_LED画面に表示.hex
+   - microbit-Ch01_1_LED画面に表示.hex
 ### 01-2. micro:bitの外観と機能
 ### 01-3. プログラミングと工作を始める前の注意
 
