@@ -20,7 +20,12 @@
 - microbit-Ch04_1_2_LED_ドットXY.hex
 - microbit-Ch04_1_3_LED_棒グラフ.hex
 - microbit-Ch04_1_4_LED_明るさ変える.hex
-- microbit-Ch04_1_5_ボタン_ABでアイコン変わる.hex
+- microbit-Ch04_2_1_ボタン_ABでアイコン変わる.hex
+- microbit-Ch04_2_2_ボタンが押された回数_制限.hex
+- microbit-Ch04_2_3_ボタンが押された回数.hex
+- microbit-Ch04_2_4_トグル操作のボタン.hex
+- microbit-Ch04_2_5_ボタン反応をよくする.hex
+
 
 ## 05 : シミュレーターの使いかた
 1. 光センサのシミュレーション
