@@ -17,38 +17,38 @@
 
 ## 04 : ブロックで知る基本機能
 1. LED
-   - microbit-Ch04_1_1_LED_アイコンを表示.hex
-   - microbit-Ch04_1_2_LED_ドットXY.hex
-   - microbit-Ch04_1_3_LED_棒グラフ.hex
-   - microbit-Ch04_1_4_LED_明るさ変える.hex
+    - microbit-Ch04_1_1_LED_アイコンを表示.hex
+    - microbit-Ch04_1_2_LED_ドットXY.hex
+    - microbit-Ch04_1_3_LED_棒グラフ.hex
+    - microbit-Ch04_1_4_LED_明るさ変える.hex
 2. ボタン
-   - microbit-Ch04_2_1_ボタン_ABでアイコン変わる.hex
-   - microbit-Ch04_2_2_ボタン_押された回数.hex
-   - microbit-Ch04_2_3_ボタン_押された回数（制限）.hex
-   - microbit-Ch04_2_4_トグル操作のボタン.hex
-   - microbit-Ch04_2_5_ボタン反応をよくする.hex
+    - microbit-Ch04_2_1_ボタン_ABでアイコン変わる.hex
+    - microbit-Ch04_2_2_ボタン_押された回数.hex
+    - microbit-Ch04_2_3_ボタン_押された回数（制限）.hex
+    - microbit-Ch04_2_4_トグル操作のボタン.hex
+    - microbit-Ch04_2_5_ボタン反応をよくする.hex
 3. 音
-   - microbit-Ch04_3_1_音を出す.hex
-   - microbit-Ch04_3_2_周波数で音の高さを指定する.hex
-   - microbit-Ch04_3_3_周波数で音の高さを指定する（音が高くなる）.hex
+    - microbit-Ch04_3_1_音を出す.hex
+    - microbit-Ch04_3_2_周波数で音の高さを指定する.hex
+    - microbit-Ch04_3_3_周波数で音の高さを指定する（音が高くなる）.hex
 4. 光センサ
-   - microbit-Ch04_4_1_明るさで口をパクパク.hex
+    - microbit-Ch04_4_1_明るさで口をパクパク.hex
 5.  加速度センサ
     - microbit-Ch04_5_1_加速度XでLED棒グラフ.hex
     - microbit-Ch04_5_2_加速度Xが2Gを超えたら音を鳴らす.hex
 6. 磁力センサ
-   - microbit-Ch04_6_1_方位磁石.hex
-   - microbit-Ch04_6_2_方位磁石（マップする）.hex
-   - microbit-Ch04_6_3_磁石を近づけるとLEDが変わる.hex
+    - microbit-Ch04_6_1_方位磁石.hex
+    - microbit-Ch04_6_2_方位磁石（マップする）.hex
+    - microbit-Ch04_6_3_磁石を近づけるとLEDが変わる.hex
 7. 温度センサ
-   - microbit-Ch04_7_1_温度でLED棒グラフ.hex
+    - microbit-Ch04_7_1_温度でLED棒グラフ.hex
 8. USBインターフェイス
-   - microbit-Ch04_8_1_加速度Xをシリアル通信で書き出す.hex
-   - microbit-Ch04_8_2_ボタンの状態をシリアル通信で書き出す.hex
-   - microbit-Ch04_8_3_加速度XYZをシリアル通信で書き出す.hex
+    - microbit-Ch04_8_1_加速度Xをシリアル通信で書き出す.hex
+    - microbit-Ch04_8_2_ボタンの状態をシリアル通信で書き出す.hex
+    - microbit-Ch04_8_3_加速度XYZをシリアル通信で書き出す.hex
 9. 無線
-   - microbit-Ch04_9_1_光センサの値を無線で送信.hex
-   - microbit-Ch04_9_2_無線で文字列を受けてLED棒グラフ.hex
+    - microbit-Ch04_9_1_光センサの値を無線で送信.hex
+    - microbit-Ch04_9_2_無線で文字列を受けてLED棒グラフ.hex
 
 
 ## 05 : シミュレーターの使いかた
