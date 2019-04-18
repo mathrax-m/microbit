@@ -16,7 +16,7 @@
 3. プロックプログラミングから書き込みまでの体験
 
 ## 04 : ブロックで知る基本機能
-   ### 1. LED
+###04-1. LED
     - microbit-Ch04_1_1_LED_アイコンを表示.hex
     - microbit-Ch04_1_2_LED_ドットXY.hex
     - microbit-Ch04_1_3_LED_棒グラフ.hex
