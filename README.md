@@ -1,5 +1,15 @@
 # micro:bit
 
+書籍で紹介したプログラムを載せています。
+
+micro:bit、Processing、SonicPiと３種類あります。
+
+
+
+Chapter02にはプログラムはありません。
+
+
+
 ## Chapter01 : micro:bitとは？
 ####     01-1. micro:bitとは？
    - microbit-Ch01_1_LED画面に表示.hex
