@@ -1,24 +1,22 @@
 # micro:bit
 
-## <font color="SlateBlue">Chapter01 : micro:bitとは？</font>
+## Chapter01 : micro:bitとは？
 ####   01-1. micro:bitとは？
    - microbit-Ch01_1_LED画面に表示.hex
 ####   01-2. micro:bitの外観と機能
 ####   01-3. プログラミングと工作を始める前の注意
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
-## <font color="SlateBlue">Chapter02 : プログラミングと工作のための準備</font>
+
+## Chapter02 : プログラミングと工作のための準備
 #### 02-1. 必要な最低限の準備
 #### 02-2. 用途に応じた準備
 
-## <font color="SlateBlue">Chapter03 : MakeCodeエディタの使いかた</font>
+## Chapter03 : MakeCodeエディタの使いかた
 #### 03-1. MakeCodeエディタへのアクセス
 #### 03-2. MakeCodeエディタ画面の説明
 #### 03-3. プロックプログラミングから書き込みまでの体験
    - microbit-Ch03_3_ボタンでアイコン変化.hex
 
-## <font color="SlateBlue">Chapter04 : ブロックで知る基本機能</font>
+## Chapter04 : ブロックで知る基本機能
 #### 04-1. LED
    - microbit-Ch04_1_1_LED_アイコンを表示.hex
    - microbit-Ch04_1_2_LED_ドットXY.hex
