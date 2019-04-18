@@ -34,8 +34,8 @@
 4. 光センサ
    - microbit-Ch04_4_1_明るさで口をパクパク.hex
 5.  加速度センサ
-   - microbit-Ch04_5_1_加速度XでLED棒グラフ.hex
-    - - microbit-Ch04_5_2_加速度Xが2Gを超えたら音を鳴らす.hex
+    - microbit-Ch04_5_1_加速度XでLED棒グラフ.hex
+    - microbit-Ch04_5_2_加速度Xが2Gを超えたら音を鳴らす.hex
 6. 磁力センサ
    - microbit-Ch04_6_1_方位磁石.hex
    - microbit-Ch04_6_2_方位磁石（マップする）.hex
