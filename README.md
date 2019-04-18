@@ -2,11 +2,11 @@
 
 書籍で紹介したプログラムを載せています。
 
-micro:bit、Processing、SonicPiと３種類あります。
+プログラムは、micro:bit、Processing、SonicPiと3種類あります。
 
 
 
-Chapter02にはプログラムはありません。
+※Chapter02にはプログラムはありません。
 
 
 
