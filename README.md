@@ -67,7 +67,11 @@
    - microbit-Ch05_6_シリアル通信のシミュレーション.hex
 
 ## Chapter06 : ブロックとJavaScriptを同時に使う
-- LEDの点灯時間を変えてハートがドキドキするリズムをつくる
+   - microbit-Ch06_1_LEDドキドキ.hex
+   - microbit-Ch06_2_LEDドキドキ.hex
+   - microbit-Ch06_3_LEDドキドキ.hex
+   - microbit-Ch06_4_LEDドキドキ.hex
+
 
 ## Chapter07 : 関数を作ってよく使う機能をまとめる
 1. 単純な関数
