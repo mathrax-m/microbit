@@ -127,11 +127,15 @@
 
 #### 09-2 : micro:bit+Processing+SonicPiの連携
 1. micro:bitをつかわず、ProcessingとSonicPiの連携（OSCのみ）
+#### Processing
+- Ch09_2_1
+
 2. micro:bitをつかって、ProcessingとSonicPiの連携（シリアル通信＋OSC）
 
 #### 09-3 : 表現の工夫
 1. なにかの曲のように聞こえる表現（SpnicPiからのアプローチ）
-- SonicPi : Ch09_3_1.rb
+#### SonicPi
+- Ch09_3_1.rb
 
 2. ウェアラブルに体をつかって演奏する表現（microbitからのアプローチ）
 - microbit-Ch9_3_2_無線で送信.hex
@@ -140,6 +144,8 @@
 3. インタラクティブなグラフィック表現（Processingからのアプローチ）
 #### Processing : スペースキーでインタラクティブなグラフィック
 - Ch09_3_3_keyPress_graphics
+
+####
 
 
 ## Chapter10 : micro:bitの知ってて得するポイント

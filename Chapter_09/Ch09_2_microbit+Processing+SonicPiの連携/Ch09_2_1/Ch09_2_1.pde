@@ -1,6 +1,6 @@
 //Ch09-2-1
-//  Processing+SonicPi
-//  not use micro:bit
+//  micro:bit+Processing+SonicPiの連携
+//  micro:bitをつかわず、ProcessingとSonicPiの連携（OSCのみ）
 
 int[]   key_x    = {0, 50, 100, 150, 200, 300, 350, 400, 450, 500, 550, 600, 700};
 int[]   key_order = {0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0};
