@@ -232,7 +232,7 @@
 
 - microbit-Ch09_2_2_シリアル通信で加速度X.hex
 
-- Procssing-Ch09_2_2 加速度センサX,1つだけをつかってSonicPiと連携
+- Processing-Ch09_2_2 加速度センサX,1つだけをつかってSonicPiと連携
 
 - SonicPi-Ch09_2_1 Processingから送られたOSCを受けて音を鳴らす
 
@@ -254,9 +254,9 @@
 
 #### 09-3-3. インタラクティブなグラフィック表現（Processingからのアプローチ）
 
-Processingのみでプログラムの仕組み紹介 : スペースキーでインタラクティブなグラフィック
+Processingのみでインタラクティブなグラフィック
 
-- Ch09_3_3_keyPress_graphics
+- Ch09_3_3_simple_sample スペースキーでインタラクティブなグラフィック
 
 
 
@@ -276,7 +276,11 @@ Processingのみでプログラムの仕組み紹介 : スペースキーでイ�
 
 - microbit-Ch9_3_2_無線で受信.hex
 
-  *無線の場合、microbitは「Ch09_3_2」と同じです
+- Processing-Ch09_3_3 インタラクティブなグラフィック表現
+
+- SonicPi-Ch09_3_1.rb ペンタトニックスケールで演奏する
+
+  *SonicPiは、「Ch09_3_1」と同じプログラムです
 
   
 
