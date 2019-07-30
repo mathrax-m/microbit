@@ -42,7 +42,7 @@
 
 -----
 
-## Chapter04 : ブロックで知る基本機能
+## [Chapter04 : ブロックで知る基本機能](https://github.com/mathrax-m/microbit/tree/master/Chapter_04)
 
 #### 04-1. LED
 
