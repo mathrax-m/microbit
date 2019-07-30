@@ -1,6 +1,6 @@
 //Ch09-1-1
 //  micro:bit+Processing
-//  -- micro:bit加速度センサXYZで画像を移動（残像）--
+//  -- micro:bit加速度センサXYZで画像を移動（残像効果）--
 
 PImage mb;
 
