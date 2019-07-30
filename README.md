@@ -187,21 +187,21 @@
 
 1. シリアル通信で、加速度センサXYZを受けとり、画像を移動させる
 
-   * microbit-Ch09_1_1_加速度XYZ.hex
+- microbit-Ch09_1_1_加速度XYZ.hex
 
-   * Processing-Ch09_1_1 micro:bit加速度センサXYZで画像を移動
+- Processing-Ch09_1_1 micro:bit加速度センサXYZで画像を移動
 
-
+  
 
 応用：シリアル通信で、加速度センサXYZを受けとり、画像を移動させる（残像効果）
 
-＊ 1のプログラムを数行変更しただけなので、09_1_1としています。
+​	* 1のプログラムを数行変更しただけなので、09_1_1としています。
 
 * microbit-Ch09_1_1_加速度XYZ.hex
 
 * Processing-Ch09_1_1 micro:bit加速度センサXYZで画像を移動（残像効果）
 
-  
+
 
 2. 応用：シリアル通信で、加速度センサXYZ+ボタンABを受けとり、画像を移動させる
 
@@ -213,7 +213,7 @@
 
 1. micro:bitをつかわず、ProcessingとSonicPiの連携（OSCのみ）
 
-#### Processing
+   #### Processing
 
 - Ch09_2_1
 
@@ -223,7 +223,7 @@
 
 1. なにかの曲のように聞こえる表現（SpnicPiからのアプローチ）
 
-#### SonicPi
+   #### SonicPi
 
 - Ch09_3_1.rb
 
@@ -234,7 +234,7 @@
 
 3. インタラクティブなグラフィック表現（Processingからのアプローチ）
 
-#### Processing : スペースキーでインタラクティブなグラフィック
+   #### Processing : スペースキーでインタラクティブなグラフィック
 
 - Ch09_3_3_keyPress_graphics
 
