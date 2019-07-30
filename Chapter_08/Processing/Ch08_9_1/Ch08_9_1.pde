@@ -1,3 +1,7 @@
+//Ch08-9-1
+//  micro:bit+Processing
+//  -- シューティングゲーム風の画面 --
+
 PImage ship;
 PImage ship_l;
 PImage ship_r;
