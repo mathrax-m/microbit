@@ -10,7 +10,7 @@
 
 -----
 
-## Chapter01 : micro:bitとは？
+## [Chapter01 : micro:bitとは？](https://github.com/mathrax-m/microbit/tree/master/Chapter_01)
 
 #### 01-1. micro:bitとは？
 
@@ -30,7 +30,7 @@
 
 -----
 
-## Chapter03 : MakeCodeエディタの使いかた
+## [Chapter03 : MakeCodeエディタの使いかた](https://github.com/mathrax-m/microbit/tree/master/Chapter_03)
 
 #### 03-1. MakeCodeエディタへのアクセス
 
@@ -97,7 +97,7 @@
 
 -----
 
-## Chapter05 : シミュレーターの使いかた
+## [Chapter05 : シミュレーターの使いかた](https://github.com/mathrax-m/microbit/tree/master/Chapter_05)
 
 #### 05-1. 光センサのシミュレーション
 
@@ -125,7 +125,7 @@
 
 -----
 
-## Chapter06 : ブロックとJavaScriptを組み合わせたプログラミング
+## [Chapter06 : ブロックとJavaScriptを組み合わせたプログラミング](https://github.com/mathrax-m/microbit/tree/master/Chapter_06)
 
 - microbit-Ch06_1_LEDドキドキ.hex
 - microbit-Ch06_2_LEDドキドキ.hex
@@ -134,7 +134,7 @@
 
 -----
 
-## Chapter07 : 関数を使ったプログラミング
+## [Chapter07 : 関数を使ったプログラミング](https://github.com/mathrax-m/microbit/tree/master/Chapter_07)
 
 #### 07-1. 単純な関数
 
@@ -150,7 +150,7 @@
 
 -----
 
-## Chapter08 : デザイン工作
+## [Chapter08 : デザイン工作](https://github.com/mathrax-m/microbit/tree/master/Chapter_08)
 
 #### 08-1. 工作の準備
 
@@ -181,7 +181,7 @@
 
 ------
 
-## Chapter09 : より自由な表現の実践
+## [Chapter09 : より自由な表現の実践](https://github.com/mathrax-m/microbit/tree/master/Chapter_09)
 
 #### 09-1 : micro:bit+Processingの連携
 
@@ -233,7 +233,7 @@
 
 -----
 
-## Chapter10 : micro:bitの知ってて得するポイント
+## [Chapter10 : micro:bitの知ってて得するポイント](https://github.com/mathrax-m/microbit/tree/master/Chapter_10)
 
 #### 10-1. ブラウザでワンクリック書き込みができる
 
