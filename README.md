@@ -138,8 +138,8 @@
 - microbit-Ch9_3_2_無線で受信.hex
 
 3. インタラクティブなグラフィック表現（Processingからのアプローチ）
-- Processing : スペースキーでインタラクティブなグラフィック
-  Ch09_3_3_keyPress_graphics
+#### Processing : スペースキーでインタラクティブなグラフィック
+- Ch09_3_3_keyPress_graphics
 
 
 ## Chapter10 : micro:bitの知ってて得するポイント
