@@ -225,7 +225,8 @@
 - Processing-Ch09_2_1 micro:bitをつかわず、ProcessingとSonicPiを連携（OSCのみ）
 
 - SonicPi-Ch09_2_1 Processingから送られたOSCを受けて音を鳴らす
-- 
+
+  
 
 #### 09-2-2. micro:bitをつかって、ProcessingとSonicPiの連携（シリアル通信＋OSC）
 
