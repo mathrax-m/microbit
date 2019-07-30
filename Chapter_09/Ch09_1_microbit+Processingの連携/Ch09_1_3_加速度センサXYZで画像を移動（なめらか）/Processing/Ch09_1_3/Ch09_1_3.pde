@@ -1,7 +1,7 @@
 //Ch09_1_3
 //  micro:bit+Processing
-//  -- micro:bit加速度XYZ --
-//  -- 平均して滑らかにする --
+//  -- micro:bit加速度センサXYZで画像を移動（なめらか） --
+//  -- 移動平均 --
 
 float ave_x;  //浮動小数型の変数「ave_x」を用意する
 float ave_y;  //浮動小数型の変数「ave_y」を用意する

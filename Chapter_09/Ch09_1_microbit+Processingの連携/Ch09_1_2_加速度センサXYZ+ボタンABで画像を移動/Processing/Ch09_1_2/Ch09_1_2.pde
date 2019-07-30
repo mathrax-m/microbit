@@ -1,6 +1,6 @@
 //Ch09_1_2
 //  micro:bit+Processing
-//  -- micro:bit加速度XYZ+ボタンAB --
+//  -- micro:bit加速度センサXYZ+ボタンABで画像を移動 --
 
 PImage mb;
 

@@ -1,23 +1,9 @@
 boolean serialPortSelect;
 int selectSerialPortNum;
-boolean debug=false;
-
-
-void setup() {
-  size(200, 160);
-  //シリアルポートを探す
-  searchSerialPort();
-  //OSC通信を始める
-  oscOpen();
-
-  textAlign(CENTER, CENTER);
-}
 
 void draw() {
-  if (debug) {
-    drawMain();
-    return;
-  }
+  drawMain();
+
   //シリアルポートを選んでない場合
   if (!serialPortSelect) {
     //シリアルポート選択画面を表示
@@ -36,22 +22,6 @@ void draw() {
   }
 }
 
-void drawMain() {
-  background(0);
-  
-  OscMessage myMessage = new OscMessage("/fromP5");
-  for (int i=0; i<microbitData.length-1; i++) {
-    myMessage.add(microbitData[i]);
-  }
-  oscP5.send(myMessage, myRemoteLocation);
-
-  fill(255,255,255);
-  text("Serial OSC Simple", width/2, height/2-10);
-  text("receive : 50000 port", width/2, height/2+10);
-  text("send    :  4559 port", width/2, height/2+30);
-}
-
-
 //マウスクリックしたとき
 void mousePressed() {
   //シリアルポート選択がまだの場合
@@ -60,8 +30,8 @@ void mousePressed() {
     serialOpen(selectSerialPortNum);
     //シリアルポート選択した、と記憶する
     serialPortSelect=true;
-    //画面を黒で消去
-    background(0);
+    //画面を白で消去
+    background(255);
   } else {  //シリアルポート選択している場合
 
     //micro:bitからのデータが空の時
@@ -70,8 +40,8 @@ void mousePressed() {
       serialClose();
       //シリアルポート未選択とする
       serialPortSelect=false;
-      //画面を黒で消去
-      background(0);
+      //画面を白で消去
+      background(255);
     }
   }
 }
@@ -102,7 +72,7 @@ void serialPortSelectScene() {
       fill(255, 255, 255);
     }
     textAlign(CENTER, CENTER);
-    textSize(10);
+    textSize(20);
     text(serialString[i], width/2, h/2+h*i);
   }
 }

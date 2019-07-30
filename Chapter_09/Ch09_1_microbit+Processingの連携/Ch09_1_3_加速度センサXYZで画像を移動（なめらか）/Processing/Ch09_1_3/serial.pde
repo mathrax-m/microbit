@@ -52,7 +52,7 @@ void serialEvent (Serial p) {
     //「,」で区切られたデータ部分を分離してbufferに格納する
     int buffer[] = int(split(stringData, ','));
     
-    //bufferのデータをstoreData関数に送る(store_dataタブの関数）
+    //bufferのデータをstoreData関数に送る(store_dataタブ内）
     storeData(buffer);
   }
 }
