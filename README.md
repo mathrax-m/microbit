@@ -8,6 +8,8 @@
 
 [書籍サポート](https://kuze.jp/microbit-book/)はこちら。
 
+<https://kuze.jp/microbit-book/>
+
 -----
 
 **Chapter08（144ページ）の「持ちやすいコントローラ」の図面に間違いがありました。**
