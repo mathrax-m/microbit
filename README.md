@@ -6,7 +6,7 @@
 
 
 
-####[書籍サポート](https://kuze.jp/microbit-book/)はこちら。
+[書籍サポート](https://kuze.jp/microbit-book/)はこちら。
 
 
 
