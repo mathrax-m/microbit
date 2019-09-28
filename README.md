@@ -4,11 +4,11 @@
 
 プログラムは、micro:bit、Processing、SonicPiと3種類あります。
 
-
+-----
 
 [書籍サポート](https://kuze.jp/microbit-book/)はこちら。
 
-
+-----
 
 **Chapter08（144ページ）の「持ちやすいコントローラ」の図面に間違いがありました。**
 
