@@ -12,6 +12,16 @@
 
 -----
 
+**Chapter09-2「micro:bit+Processing+SonicPiの連携」について（2020/9/24）**
+
+SonicPiが3.1から3.2にバージョンアップし、書籍の「Ch9」のプログラムがうまく動作しなくなりました。SonicPiの3.2以降（2020/9/24時点では3.2.2）をお使いの方は、プログラムを修正してください。
+
+修正の方法は以下にあります。
+
+https://kuze.jp/microbit-book-shusei1/
+
+---
+
 **Chapter08（144ページ）の「持ちやすいコントローラ」の図面に間違いがありました。**
 
 **[図面のPDFをアップ](https://github.com/mathrax-m/microbit/blob/master/Chapter_08/%E6%8C%81%E3%81%A1%E3%82%84%E3%81%99%E3%81%84%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E5%9B%B3%E9%9D%A2.pdf)しました（2019/09/18）。**
